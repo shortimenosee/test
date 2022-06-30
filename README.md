@@ -1,4 +1,5 @@
 # test
-try
+-delete
 try again
 try triple
+-add
